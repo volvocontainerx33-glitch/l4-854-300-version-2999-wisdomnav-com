@@ -1,0 +1,3 @@
+Parsed movies: 2000
+Detail pages: 2000
+Categories: 10
